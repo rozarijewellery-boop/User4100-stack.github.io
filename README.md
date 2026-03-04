@@ -1,3 +1,5 @@
+<div style="background-color:#7fcbc7; padding:20px; border-radius:10px;">
+
 # 🌐 Rozari Creations
   
 You can connect with us through the platforms below:
